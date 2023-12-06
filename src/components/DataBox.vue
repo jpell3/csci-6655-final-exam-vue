@@ -25,21 +25,19 @@ export default {
 </script>
 
 <style scoped>
-
-.container {
-  max-width: 75%;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-around;
-  gap: 20px;
-  margin: 0 auto;
-  position: relative;
-}
+  .container {
+    max-width: 75%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 20px;
+    margin: 0 auto;
+    position: relative;
+  }
 
  @media only screen and (max-width: 600px) {
     .container {
       max-width: 80%;
     }
   }
-
 </style>

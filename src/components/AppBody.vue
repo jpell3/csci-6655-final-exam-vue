@@ -29,10 +29,8 @@
 </script>
 
 <style>
-
-.container {
-    background-color: #FEEFDD;
-    color: #3A2E39;
-  }
-
+  .container {
+      background-color: #FEEFDD;
+      color: #3A2E39;
+    }
 </style>

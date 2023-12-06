@@ -49,7 +49,6 @@ import AppFooter from './components/AppFooter.vue';
       this.responses = await this.fetchData(this.apiURL);
       this.numResponses = this.responses.length;
     },
-
   }
 </script>
 
@@ -65,7 +64,7 @@ import AppFooter from './components/AppFooter.vue';
   }
 
   body {
-    background-color: #9D8189;
+    background-color: #9d8189bb;
   }
 
   .container {

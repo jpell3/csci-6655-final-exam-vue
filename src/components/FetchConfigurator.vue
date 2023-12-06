@@ -99,7 +99,7 @@ cns	- Consonant match	sample → simple
     min-width: 200px;
   }
 
-    @media only screen and (max-width: 600px) {
+  @media only screen and (max-width: 600px) {
     .flex {
       flex-direction: column;
       align-items: center;
