@@ -23,8 +23,7 @@ import AppFooter from './components/AppFooter.vue';
         inputWord: '',
         inputCode: '',
         updateKey: false,
-        // apiURL: 'https://csci-6655-final-exam-server.onrender.com/api',
-        apiURL: 'http://localhost:3000/api',
+        apiURL: 'https://csci-6655-final-exam-server.onrender.com/api',
       }
     },
     methods: {
