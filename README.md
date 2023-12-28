@@ -62,7 +62,7 @@ If desired, data can be imported to MongoDB and retrieved by the server to host 
 - API
 - CORS
 - MongoDBCompass, MongoDB drivers
-- GitHub
+- Git
 
 ## Related Repositories
 
